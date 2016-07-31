@@ -4,3 +4,6 @@ e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseCont
 e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\bin\Debug\MouseControllerTCPServer.pdb
 e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.exe
 e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.pdb
+E:\Bman\Documents\GitHub\MouseControlServer\MouseControllerTCPServer\MouseControllerTCPServer\bin\Debug\MouseControllerTCPServer.exe.config
+E:\Bman\Documents\GitHub\MouseControlServer\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.exe
+E:\Bman\Documents\GitHub\MouseControlServer\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.pdb
