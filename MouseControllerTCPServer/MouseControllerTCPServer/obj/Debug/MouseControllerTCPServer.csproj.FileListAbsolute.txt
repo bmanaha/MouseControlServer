@@ -1,0 +1,6 @@
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\bin\Debug\MouseControllerTCPServer.exe.config
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.csprojResolveAssemblyReference.cache
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\bin\Debug\MouseControllerTCPServer.exe
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\bin\Debug\MouseControllerTCPServer.pdb
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.exe
+e:\bman\documents\visual studio 2015\Projects\MouseControllerTCPServer\MouseControllerTCPServer\obj\Debug\MouseControllerTCPServer.pdb
